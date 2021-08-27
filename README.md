@@ -1,4 +1,4 @@
-# SeedingIdentityUserAndRolesWithCore
+# Seeding Identity User And Roles With .Net Core
 Two different methods to seed std test users and roles with a .Net core project.
 
 Entity framework core does not provide any sort of database.SetInitializer<> function where you can easily seed data or users and roles.
